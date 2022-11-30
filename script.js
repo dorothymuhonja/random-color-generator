@@ -1,7 +1,7 @@
 const colorBtn = document.querySelector('.colorBtn')
 const bodyBgc = document.querySelector('body')
 
-const colors = ['magenta', 'lime', 'cyan', '#4b5998']
+const colors = ['magenta', 'lime', 'cyan', 'lavender', '#4b5998']
 
 colorBtn.addEventListener('click', changeColor)
 
